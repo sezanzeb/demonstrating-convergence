@@ -1,4 +1,4 @@
-# neural-network-visual-demonstration-of-convergence
+# Visual Demonstration of Convergence in Neural Networks
 
 for instructions/documentation please take a look at:
 
